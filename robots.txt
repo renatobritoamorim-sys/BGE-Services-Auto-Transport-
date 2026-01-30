@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bge-services-auto-transport.vercel.app/sitemap.xml
