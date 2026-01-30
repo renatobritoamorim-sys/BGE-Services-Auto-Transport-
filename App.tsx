@@ -1,3 +1,4 @@
+import heroBg from './assets/hero-auto-transport.png';
 
 import React, { useState, useEffect } from 'react';
 import { translations, Language } from './types';
